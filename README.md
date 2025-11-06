@@ -1,5 +1,7 @@
 # Tempmail Blocker
 
+https://www.npmjs.com/package/tempmail-blocker
+
 A lightweight npm package to block temporary/disposable email domains and prevent spam registrations.
 
 ## Features

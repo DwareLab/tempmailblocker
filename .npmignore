@@ -1,0 +1,36 @@
+# Source files
+src/
+tsconfig.json
+
+# Development files
+convert-domains.js
+debug-domains.js
+domains.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Testing
+coverage/
+*.test.ts
+*.test.js
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
